@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/BA_AirlineReviews-Sentiment-Analysis.git
+   git clone https://github.com/MohamedAlaaAhmed/BA_AirlineReviews-Sentiment-Analysis.git
    cd BA_AirlineReviews-Sentiment-Analysis
    ```
 
@@ -60,5 +60,5 @@ The dataset contains labeled airline passenger reviews sourced from public airli
 
 ---
 
-**Author:** Muhammed-AlReay  
+**Author:** MohamedAlaaAhmed  
 **Note:** This is a fully modular and customizable NLP project suitable for production or academic use.
